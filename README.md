@@ -11,7 +11,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,typescript,express,nestjs,py,fastapi,graphql,java,spring" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,typescript,express,nestjs,py,fastapi,graphql,java,spring,bots" />
   </a>
 </p>
 
